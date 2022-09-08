@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "424361993466",
+    "project_id": "fossa-648e4",
+    "storage_bucket": "fossa-648e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424361993466:android:a26c3250d7de7539a45543",
+        "android_client_info": {
+          "package_name": "com.example.fossa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424361993466-6b0bi93mrkadr3vv4ohrli6qq59qu45s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fossa",
+            "certificate_hash": "b56d554260d9bfb75274c82ae2367601f0e6fd07"
+          }
+        },
+        {
+          "client_id": "424361993466-jqia7vr957nr5ctqr72rcfkf2a2p0q20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fBMdakTqj71B9rON49ahmmR1Pzolyf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424361993466-jqia7vr957nr5ctqr72rcfkf2a2p0q20.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424361993466-vn4peacl2i086macb6fqp0mdrsfsq2op.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fossaFrontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

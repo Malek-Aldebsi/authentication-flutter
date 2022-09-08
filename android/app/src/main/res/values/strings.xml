@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logatta</string>
+    <string name="facebook_app_id">457980535834233</string>
+    <string name="fb_login_protocol_scheme">fb457980535834233</string>
+    <string name="facebook_client_token">e955ae590a91b249024f2dc21950c575</string>
+</resources>
